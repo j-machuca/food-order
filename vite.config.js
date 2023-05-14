@@ -6,6 +6,6 @@ export default defineConfig({
     plugins: [react()],
     base: "food-order/",
     build: {
-        outDir: "./dist",
+        outDir: "dist",
     },
 });
